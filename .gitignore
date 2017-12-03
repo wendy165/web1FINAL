@@ -1,2 +1,3 @@
 *.log
+!special.log
 .DS_Store
